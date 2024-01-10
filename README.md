@@ -1,4 +1,5 @@
-![Université de Lille](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Universit%C3%A9_de_Lille_logo.svg/1280px-Universit%C3%A9_de_Lille_logo.svg.png)
+EDUCATIONAL PROJECT FOR THE UNIVERSITY OF LILLE
+
 # Questions pour un primaire 🧒
 Little educational game for a school project. Coded in iJava. 
 
