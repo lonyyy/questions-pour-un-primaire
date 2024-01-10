@@ -7,7 +7,7 @@ Le jeu s’agit d’un questionnaire destiné aux primaires. Le jeu est divisé 
 
 ## Comment jouer ?
 
-Récupérer les fichiers et dossiers du répertoire.
+Récupérez les fichiers et dossiers du répertoire.
 
 Pour compiler le jeu, utilisez la commande :
 ```sh
