@@ -26,7 +26,7 @@ chmod u+x compile.sh run.sh
 ```
 Then use the commands listed above.
 
-**DISCLAIMER: This project is for educational purposes only, as part of a course at the Université de Lille.
+**DISCLAIMER: This project is for educational purposes only, as part of a course at the Université de Lille.**
 
 
 # 🇫🇷 Version française
