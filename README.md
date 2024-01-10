@@ -1,5 +1,3 @@
-EDUCATIONAL PROJECT FOR THE UNIVERSITY OF LILLE
-
 # Questions pour un primaire 🧒
 Little educational game for a school project. Coded in iJava. 
 
@@ -27,3 +25,5 @@ Si ces commandes ne marchent pas, il y a un certainement un problème de droits,
 chmod u+x compile.sh run.sh
 ```
 Puis utilisez les commandes citées au dessus.
+
+**Disclaimer: This project is for educational purposes only, as part of a course at the Université de Lille.**
