@@ -1,5 +1,5 @@
 # Questions pour un primaire
-Little educational game for a school project. Coded in iJava. Developped by Lony MICHAUX and Klara CHARLERY.
+Little educational game for a school project. Coded in iJava. Developped by Lony MICHAUX (lony.michaux.etu@univ-lille.fr) and Klara CHARLERY (klara.chalery.etu@univ-lille.fr).
 
 ## Project description
 
@@ -30,7 +30,7 @@ Then use the commands listed above.
 
 
 # 🇫🇷 Version française
-Petit jeu éducatif pour un projet scolaire. Codé en iJava. Développé par Lony MICHAUX et Klara CHARLERY.
+Petit jeu éducatif pour un projet scolaire. Codé en iJava. Développé par Lony MICHAUX (lony.michaux.etu@univ-lille.fr) et Klara CHARLERY (klara.chalery.etu@univ-lille.fr).
 
 ## Description du projet
 
